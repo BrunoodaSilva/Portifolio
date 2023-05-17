@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+header{
+    background-color:#127369 ;
+    color: #DBF227;
+    font-family: 'Zilla Slab',Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+body{
+    background-color: #127369;
+    color: white;
+}
