@@ -17,3 +17,6 @@ div#imgeu > img{
     top: 25px;
     left: 400px;
 }
+section > div#msg{
+    font-size: 100px;
+}
